@@ -15,7 +15,8 @@
   justify-content: space-around; 
   max-width: 1200px;           
   margin: 0 auto;      
-  color: #3498db ;          
+  color: #3498db ; 
+  text-decoration: none;
 }
   .blogp{   
   margin: 0 auto; 
